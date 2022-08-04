@@ -1,4 +1,4 @@
-## Hi there 👋 Welcome to BJFARMER1 gthub page
+## Hi there 👋 Welcome to BJFARMER1 github page
 
 
 🙋‍♀️ Bjfarmer organization is aiming at providing software solutions in the agritech field
